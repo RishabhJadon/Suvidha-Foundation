@@ -1,0 +1,87 @@
+/* Body */
+body
+{
+   margin:0;
+  /*padding:0; */
+  background-color: #bcf5bc
+}
+
+div
+{
+  padding:0;
+}
+
+h1
+{
+  color:#779AF7;
+  padding:20px 0;
+}
+
+h2,h3,h4
+{
+  color:#779AF7;
+}
+
+/* Navigation Bar */
+.navbar
+{
+  /* width: 100%; */
+  padding:0;
+
+}
+
+.company_logo
+{
+  width:200px;
+  margin-right: 540px;
+}
+
+ul {
+  list-style-type: none;
+  /* border:20px; */
+  /* padding: 20px; */
+  overflow: hidden;
+  background-color: #EAFDFC;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: grey;
+  text-align: center;
+  margin: 14px 16px;
+  font-size: 2rem;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #BFEAF5;
+  text-decoration: none;
+}
+
+/* Home Page */
+#About
+{
+  background-color: #BFEAF5;
+}
+
+
+/* Product Page */
+.products
+{
+  margin-top: 50px;
+}
+
+.product-img
+{
+  width: 300px;
+}
+
+/* About Page */
+.desc
+{
+  width: 70%;
+}
